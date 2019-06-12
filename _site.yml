@@ -1,0 +1,12 @@
+name: "probando123"
+output_dir: "docs"
+navbar:
+  title: "Configurando"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "La prueba"
+   href: rnotebook.nb.html
+output:
+  html_document:
+ theme: cosmo
